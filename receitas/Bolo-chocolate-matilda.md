@@ -12,8 +12,8 @@ Bolo de chocolate com cobertura de chocolate do filme Matilda
 - 1\2 xícara de óleo
 
 ### Ingredientes ganache:
-250g de chocolate meio amargo 
-250g de nata (ou creme de leite fresco)
+- 250g de chocolate meio amargo 
+- 250g de nata (ou creme de leite fresco)
 
 ## Preparo do bolo:
 - Em uma tigela, peneirar os secos: farinha, fermento e o achocolatado. 
