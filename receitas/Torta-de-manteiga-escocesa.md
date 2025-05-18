@@ -1,14 +1,18 @@
-##Ingredientes
-###Base
--Farinha de trigo
--Chocolate em pó
--Açúcar mascavo
+## Ingredientes
 
-###Recheio
--Açúcar cristal
--Manteiga
--Leite Condensado
--Creme de Leite
+### Base
 
-###Topo
--Chocolate Derretido
+- Farinha de trigo
+- Chocolate em pó
+- Açúcar mascavo
+
+### Recheio
+
+- Açúcar cristal
+- Manteiga
+- 1cx Leite Condensado
+- 1cx Creme de Leite
+
+### Topo
+
+- Chocolate Derretido
